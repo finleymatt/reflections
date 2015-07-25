@@ -1,0 +1,1 @@
+diff can be useful to find bugs in programs. This is true because no matter how much more you add on to a new version, you can always go back and compare it to the old. This allows you to restore old versions via copy&paste as well as see what was changed to find that bug
