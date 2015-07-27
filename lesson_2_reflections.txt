@@ -1,0 +1,6 @@
+What happens when you initialize a reposity? Why do you need to do it?
+
+You initialize a repository because you want to create a subliminal folder that allows you to access .git metadata about each file. This allows for version control and the ability to check back on past segments of code, as well as compare and contrast multiple instances.
+
+
+chicckkka yea
